@@ -5,6 +5,12 @@
 154.17.21.134,18446,true,LAX,North America,Los Angeles,180 ms,6562 kB/s
 154.17.4.191,35378,true,LAX,North America,Los Angeles,166 ms,6431 kB/s
 154.17.4.180,45929,true,LAX,North America,Los Angeles,174 ms,5822 kB/s
-154.17.19.203,32826,true,LAX,North America,Los Angeles,173 ms,2159 kB/s
+154.17.19.203,32826，true，LAX，北美，洛杉矶，173 毫秒，2159 kB/秒
 65.75.195.188,50795,true,SJC,North America,San Jose,196 ms,109 kB/s
 65.75.193.21,37813,true,SJC,North America,San Jose,189 ms,0 kB/s
+4.255.56.137,443，true，IAD，北美，Ashburn，292 ms，5451 kB/s
+20.240.254.247,8443，true，ARN，欧洲，斯德哥尔摩，311 毫秒，2801 kB/秒
+20.62.202.159,443，true，IAD，北美，Ashburn，287 ms，2284 kB/s
+4.255.56.138,443，true，IAD，北美，Ashburn，278 ms，2265 kB/s
+52.137.60.154,443，true，AMS，Europe，阿姆斯特丹，254 毫秒，86 kB/秒
+20.220.204.217,443，true，YYZ，北美，多伦多，243 ms，67 kB/秒
